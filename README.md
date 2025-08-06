@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekevdt&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekevdt&layout=compact&theme=radical" height="170" />
-</p>
-
-> 🛡️ Note: Some of my best work is in private repositories and internal tools I can't share publicly.
-
 ### 🛠️ Tech Stack
 
 #### 💻 Frontend
@@ -70,6 +61,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/techstack.gif" alt="Tech Stack Animation" width="100%" />
-</p>
